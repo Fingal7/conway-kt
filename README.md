@@ -12,4 +12,8 @@ The next generation of cells is determined by the following rules:
 
 You can, in every generation, change the state of a cell. There is also a reset button.
 
+You can start with: 
+
+
+![spaceship](https://user-images.githubusercontent.com/57390136/121036438-0c083200-c7af-11eb-83d2-813f5ace820a.PNG)
 
